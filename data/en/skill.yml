@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : We’ve skilled in wide range of R.
+  content : We know, we know, but come on... zero-indexing is inhuman(e).
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Base R
+      percent : 82.3%
+      
+    # skill item loop
+    - name :  Tidyverse
+      percent : 96.6%
+      
+    # skill item loop
+    - name :  Tidyverts
+      percent : 69.3%
+      
+    - name :  SQL
+      percent : 99.7%
+      
+    # skill item loop
+    - name :  Python
+      percent : 6.1%

@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "What are you really optimizing?"
+  content : "Every day you make the best decisions you can. Imperfect information in a changing world means you never know as much as you would like. Sometimes the most important step toward better decision-making isn't more data, it's a better understanding of the decision and its impact on your goals."
+  button:
+    enable : true
+    label : "Talk to me, Goose"
+    link : "#services"

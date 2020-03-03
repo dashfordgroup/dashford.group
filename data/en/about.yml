@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : We're Friends
+    content : And have been for years.
+    
+  - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+    title : We're Friendly
+    content : Just ask our moms!
+    
+  - icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+    title : We'll Be Your Friends
+    content : Isn't that what we all really want?

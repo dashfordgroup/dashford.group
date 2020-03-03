@@ -1,0 +1,20 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Works
+  portfolio_item :
+    # portfolio item loop
+    - name : Forecasting things
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["forecasting"]
+      content : We forecasted something that one time.
+      link : ""
+      
+    # portfolio item loop
+    - name : fable.bsts
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["forecasting"]
+      content : We ported the bsts package to the fable ecosystem.
+      link : "https://github.com/davidtedfordholt/fable.bsts"

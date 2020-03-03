@@ -1,0 +1,18 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Drop a line / anytime / I promise we won't rhyme.
+  form_action: "#" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Tennessee, USA"
+      
+#    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+#      info : "Phone: +1-865-254-4584"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: d@tdfd.org"
+      link:  "mailto:d@tdfd.org"

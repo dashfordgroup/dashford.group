@@ -1,0 +1,15 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Forecasting
+      icon : ti-arrow-top-right # themify icon pack : https://themify.me/themify-icons
+      content : You may not see the future, but you'll know you aren't seeing the future.
+      
+    # service item loop
+    - name : Decision Support
+      icon : ti-hand-point-right # themify icon pack : https://themify.me/themify-icons
+      content : You may not see around corners, but you won't miss the elephant in the room.
+      
